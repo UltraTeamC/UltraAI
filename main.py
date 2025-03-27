@@ -19,6 +19,8 @@ while 5>3:
         q1.H000001()
     elif i1.H000002 in uinput:
         q1.H000002()        #文字游戏
+    elif i1.H000003 in uinput:
+        q1.H000003()
     elif i1.I000001 in uinput:
         print("再见！")
         break

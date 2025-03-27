@@ -118,6 +118,12 @@ def H000002():
         else:
             print("无效的选择，游戏结束。")
     start_game()
+def H000003():
+    import random
+    c = random.randint(1,3)
+    u = int(input("剪刀石头布[1.]!"))
+    if u < 1 or u > 3:
+        print("不和你玩了😠!")
 def J000001():
     print("请注意文明哦!")
 def J000002():
