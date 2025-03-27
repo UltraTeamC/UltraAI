@@ -14,9 +14,9 @@ sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 while 5>3:
     uinput = str(input("我是UltraAI[v0.22]测试版，你有什么问题可以向我提问："))
     if i1.B000001 in uinput:
-        q1.B000001()        #计算器
+        q1.B000001()        
     elif i1.H000001 in uinput:
-        q1.H000001()        #猜数
+        q1.H000001()
     elif i1.H000002 in uinput:
         q1.H000002()        #文字游戏
     elif i1.I000001 in uinput:
