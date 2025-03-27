@@ -60,7 +60,7 @@ def B000001():
 def H000001():
     import random
     import time
-    userinput = int(input("请输入最大值："))
+    userinput = int(input("你想让我猜多大呢?"))
     Min = 1
     Max = userinput
     da = random.randint(0,userinput)
