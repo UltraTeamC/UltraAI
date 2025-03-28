@@ -22,8 +22,7 @@ while 5>3:
     elif i1.H000003 in uinput:
         q1.H000003()
     elif i1.I000001 in uinput:
-        print("再见！")
-        break
+        i1.I000001()
     elif i1.J000001 in uinput:
         q1.J000001()        #脏话
     elif i1.J000002 in uinput:
