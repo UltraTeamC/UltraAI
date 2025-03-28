@@ -1,2 +1,0 @@
-# UltraAI
-UltraTeam's AI
